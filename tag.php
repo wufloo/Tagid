@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Kıik tagid</title>
+    <title>K√µik tagid</title>
     <link rel="stylesheet" type="text/css" href="tagid.css">
 </head>
 <body>
@@ -11,12 +11,12 @@
 <p>The <abbr title="World Health Organization">WHO</abbr> was founded in 1948.</p>
 <address>
     Kirjutatud <a href="https://www.facebook.com/janre.press">Janre Pressi</a> poolt.<br>
-    K¸lasta meid:<br>
-    N‰ide<br>
+    K√ºlasta meid:<br>
+    N√§ide<br>
     Metsatee<br>
     Eesti
 </address>
-<p>Vajuta p‰ikesel vıi mınel planeedil, et n‰ha suuremalt:</p>
+<p>Vajuta p√§ikesel v√µi m√µnel planeedil, et n√§ha suuremalt:</p>
 
 <img src="media/planets.gif" width="145" height="126" alt="Planets" usemap="#planetmap">
 
@@ -50,7 +50,7 @@
 <ul>
     <li>User <bdi>hrefs</bdi>: 60 points</li>
     <li>User <bdi>jdoe</bdi>: 80 points</li>
-    <li>User <bdi>????</bdi>: 90 points</li>
+    <li>User <bdi>ÿ•ŸäÿßŸÜ</bdi>: 90 points</li>
 </ul>
 
 <p><bdo dir="rtl">This paragraph will go right-to-left.</bdo></p>
@@ -345,9 +345,9 @@ line breaks
     <p>This is some text. This is some text. This is some text. This is some text. This is some text. This is some text.</p>
     <br>
     <p id="marg">Margins paragrahvis yei.</p>
-    <p id="maxheight">Selle paragrahvi maksimum kırgus on 50px. Selle paragrahvi maksimum kırgus on 50px. Selle paragrahvi maksimum kırgus on 50px. Selle paragrahvi maksimum kırgus on 50px. Selle paragrahvi maksimum kırgus on 50px. Selle paragrahvi maksimum kırgus on 50px. Selle paragrahvi maksimum kırgus on 50px.</p>
+    <p id="maxheight">Selle paragrahvi maksimum k√µrgus on 50px. Selle paragrahvi maksimum k√µrgus on 50px. Selle paragrahvi maksimum k√µrgus on 50px. Selle paragrahvi maksimum k√µrgus on 50px. Selle paragrahvi maksimum k√µrgus on 50px. Selle paragrahvi maksimum k√µrgus on 50px. Selle paragrahvi maksimum k√µrgus on 50px.</p>
     <br>
-    <p id="minheight">Selle paragrahvi miinimum kırgus on 100px.</p>
+    <p id="minheight">Selle paragrahvi miinimum k√µrgus on 100px.</p>
     <br>
     <p id="not">
         In my younger and more vulnerable years my father gave me some advice that I've been turning over in my mind ever since.
@@ -370,7 +370,7 @@ I	use	tab-size	4
     <br>
     <p id="getit">In my younger and more vulnerable years my father gave me some advice that I've been turning over in my mind ever since. 'Whenever you feel like criticizing anyone,' he told me, 'just remember that all the people in this world haven't had the advantages that you've had.'</p>
     <br>
-    <p id="line">Vıtke j‰rjekorda, vıitjad !</p>
+    <p id="line">V√µtke j√§rjekorda, v√µitjad !</p>
     <br>
     <h1>Pealkiri 1</h1>
     <h2>Pealkiri 2</h2>
@@ -400,20 +400,20 @@ I	use	tab-size	4
     <br>
     <div id="yee">Ma isegi ei tea mis ma kirjutama peaksin siia.</div>
     <br>
-    <div id="div4">Mingi pikk tekst, mis mitte kuidagi ei mahu ‰ra</div>
+    <div id="div4">Mingi pikk tekst, mis mitte kuidagi ei mahu √§ra</div>
     <br>
     <div class="newspaper">
         <h2 id="two">Lorem ipsum dolor sit amet, consectetuer adipiscing elit</h2>, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Typi non habent claritatem insitam; est usus legentis in iis qui facit eorum claritatem. Investigationes demonstraverunt lectores legere me lius quod ii legunt saepius.
     </div>
     <br>
-    <p><q>Ta ¸tles, et <q>ta</q> ei tea.</q></p>
+    <p><q>Ta √ºtles, et <q>ta</q> ei tea.</q></p>
     <br>
     <img id="boob" src="boob.jpg">
     <br>
     <p id="oki">Miski</p>
     <br>
-    <p id="uuu">Mınel on kıveralt</p>
+    <p id="uuu">M√µnel on k√µveralt</p>
     <br>
-    <p id="canbus">N‰gemiseni !</p>
+    <p id="canbus">N√§gemiseni !</p>
 </body>
 </html>
