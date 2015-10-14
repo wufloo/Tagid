@@ -415,6 +415,5 @@ I	use	tab-size	4
     <p id="uuu">Mõnel on kõveralt</p>
     <br>
     <p id="canbus">Nägemiseni !</p>
-    <img src="mark.jpg" alt="">
 </body>
 </html>
