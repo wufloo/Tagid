@@ -396,7 +396,7 @@ I	use	tab-size	4
     <button id="b4">Nupp 4</button>
     <br>
     <br>
-    <p id="ohh">Ohhhh Goddddd</p>
+    <p id="ohh">Ohhhh Goddddddd</p>
     <br>
     <div id="yee">Ma isegi ei tea mis ma kirjutama peaksin siia.</div>
     <br>
