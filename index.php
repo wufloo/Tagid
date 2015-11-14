@@ -4,8 +4,14 @@
     <meta charset="UTF-8">
     <title>Kõik tagid</title>
     <link rel="stylesheet" type="text/css" href="tagid.css">
+    <base href="http://www.w3schools.com/images/" target="_blank">
+    <style>
+        .mida { color:red;}
+    </style>
 </head>
 <body>
+<p id="mida">Hello</p>
+<p><img src="stickman.gif" width="24" height="39" alt="Stickman"></p>
 <!--kommentaar-->
 <a href="http://www.google.com">Google link</a>
 <p>The <abbr title="World Health Organization">WHO</abbr> was founded in 1948.</p>
@@ -415,5 +421,12 @@ I	use	tab-size	4
     <p id="uuu">Mõnel on kõveralt</p>
     <br>
     <p id="canbus">Nägemiseni !</p>
+    <section>
+        <h1>WWF</h1>
+        <p>The World Wide Fund for Nature (WWF) is an international organization working on issues regarding the conservation, research and restoration of the environment, formerly named the World Wildlife Fund. WWF was founded in 1961.</p>
+    </section>
+
+    <div id="hoover"></div>
+
 </body>
 </html>

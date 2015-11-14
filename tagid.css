@@ -447,6 +447,12 @@ p {
     image-resolution: 300dpi;
     mask: inherit;
     mask-type: inherit;
+    -webkit-align-content: center;
+    align-content: center;
+    flex-grow: 1;
+    hyphens: none;
+    overflow-wrap: normal;
+    font-feature-settings: normal;
 }
 #heidi {
     voice-family: female;
@@ -455,4 +461,18 @@ p {
     voice-volume: -6dB;
     voice-stress: moderate;
     voice-rate: fast;
+
+}
+
+#hoover {
+    width: 100px;
+    height: 100px;
+    background: red;
+    -webkit-transition-property: width; /* Safari */
+    -webkit-transition-duration: 2s; /* Safari */
+    transition-property: width;
+    transition-duration: 2s;
+}
+#hoover:hover {
+    width: 300px;
 }
