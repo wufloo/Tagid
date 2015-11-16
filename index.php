@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <title>Kõik tagid</title>
     <link rel="stylesheet" type="text/css" href="tagid.css">
-    <base href="http://www.w3schools.com/images/" target="_blank">
+    <base href="diarainfra.com/vs15_tagid/uploads/repo/wufloo/" target="_blank">
     <style>
         .mida { color:red;}
     </style>
